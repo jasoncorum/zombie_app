@@ -1,0 +1,6 @@
+== README FOR ZOMBIE APP
+
+This is a sample application for learning more about RSPEC through Code School.
+
+* Ruby version 2.1.1
+* Rails version 4.1.1
